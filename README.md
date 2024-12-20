@@ -95,9 +95,9 @@ The testing process followed a structured approach:
 
 ---
 
-🙌 Acknowledgments
-Special thanks to Ajay Dhakkad Sir, Anjali Shaw Mam, Pooja Yadav Mam for guiding the testing process.
-Gratitude to the development team for their collaboration.
+## 🙌 Acknowledgments
+- Special thanks to Ajay Dhakkad Sir, Anjali Shaw Mam, Pooja Yadav Mam for guiding the testing process.
+- Gratitude to the development team for their collaboration.
 
 ---
 
