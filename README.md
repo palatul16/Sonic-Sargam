@@ -45,19 +45,34 @@ The testing process followed a structured approach:
 
 ---
 
-## 📂 Test Artifacts  
+## 📂 Test Artifacts/Files  
+The following files have been included to document the testing process:
 
-### 1. **Test Cases**  
-   - Functional Test Cases  
-   - Usability Test Cases  
-   - Performance Test Cases  
-   - Compatibility Test Cases  
+### 1. **Test Plan**
+   -  Format: .docx
+   -  Description: It contains complete test plan, how thins were going.
+   -  Download: [1. Test Plan Document.docx](https://github.com/user-attachments/files/18215162/1.Test.Plan.Document.docx)
 
-### 2. **Bug Reports**  
-   - Detailed bug descriptions with steps to reproduce, expected vs. actual results, and screenshots.  
+### 2. **Mind Map**
+   -  Format: .pdf
+   -  Description: It contains complete Mind Map.
+   -  Download: [2. Mind Map.pdf](https://github.com/user-attachments/files/18215193/2.Mind.Map.pdf)
 
-### 3. **Test Reports**  
-   - Consolidated report summarizing the test execution status and findings.  
+### 3. **Test Scenarious & Test Cases**
+   -  Format: .xlsx
+   -  Description: Contains detailed test cases, including test steps, expected results, actual results, and status.
+   -  Download: [3. Test Scenario & Test Cases.xlsx](https://github.com/user-attachments/files/18215209/3.Test.Scenario.Test.Cases.xlsx)
+
+### 4. **Bug Reports**  
+   -  Format: .xlsx
+   -  Description: Detailed bug descriptions with steps to reproduce, expected vs. actual results, and screenshots.
+   -  Download: [4. Bug Report.xlsx](https://github.com/user-attachments/files/18215217/4.Bug.Report.xlsx)
+
+
+### 5. **Test Execution Reports**  
+   - Format : .docx
+   - Description: Consolidated report summarizing the test execution status and findings.
+   - Download: [5. Test Execution Report.docx](https://github.com/user-attachments/files/18215227/5.Test.Execution.Report.docx)
 
 ---
 
