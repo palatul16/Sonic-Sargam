@@ -104,7 +104,7 @@ The testing process followed a structured approach:
 ## FEEDBACK
 
 If you have any feedback, Please contact to me
-atulpaldlehi@gmail.com  
+atulpaldelhi@gmail.com  
 
 ## Web Pages
 ![image](https://github.com/user-attachments/assets/59eb17f5-ce56-433d-8ebc-4e362266c92c) </br>
