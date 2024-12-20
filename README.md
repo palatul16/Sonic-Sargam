@@ -101,10 +101,10 @@ The testing process followed a structured approach:
 
 ---
 
-##📧 Contact
-For questions or feedback, reach out at:
-Email: atulpaldelhi@gmail.com
-GitHub: your-username
+## 📧 Contact
+For questions or feedback, reach out at:</br>
+Email: atulpaldelhi@gmail.com </br>
+GitHub: [your-username](https://github.com/palatul16)
 
 ## Web Pages
 ![image](https://github.com/user-attachments/assets/59eb17f5-ce56-433d-8ebc-4e362266c92c) </br>
