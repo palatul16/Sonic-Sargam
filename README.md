@@ -58,19 +58,19 @@ The following files have been included to document the testing process:
    -  Description: It contains complete Mind Map.
    -  Download: [2. Mind Map.pdf](https://github.com/user-attachments/files/18215193/2.Mind.Map.pdf)
 
-### 3. **Test Scenarious & Test Cases**
+### 3. **Test Scenarios & Test Cases**
    -  Format: .xlsx
    -  Description: Contains detailed test cases, including test steps, expected results, actual results, and status.
    -  Download: [3. Test Scenario & Test Cases.xlsx](https://github.com/user-attachments/files/18215209/3.Test.Scenario.Test.Cases.xlsx)
 
 ### 4. **Bug Reports**  
    -  Format: .xlsx
-   -  Description: Detailed bug descriptions with steps to reproduce, expected vs. actual results, and screenshots.
+   -  Description: Detailed bug descriptions with steps to reproduce, expected vs actual results, and screenshots.
    -  Download: [4. Bug Report.xlsx](https://github.com/user-attachments/files/18215217/4.Bug.Report.xlsx)
 
 
 ### 5. **Test Execution Reports**  
-   - Format : .docx
+   - Format: .docx
    - Description: Consolidated report summarizing the test execution status and findings.
    - Download: [5. Test Execution Report.docx](https://github.com/user-attachments/files/18215227/5.Test.Execution.Report.docx)
 
