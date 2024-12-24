@@ -81,8 +81,8 @@ The following files have been included to document the testing process:
 | **Test Case ID** | **Description**                     | **Steps**                                                                                 | **Expected Result**                       | **Status**  |  
 |-------------------|-------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------|-------------|  
 | TC001            | Verify user login functionality     | 1. Open the app<br>2. Enter valid credentials<br>3. Click Login                          | User should be logged in successfully     | ✅ Pass      |  
-| TC002            | Verify music composition tool       | 1. Navigate to composition<br>2. Add instruments<br>3. Adjust tempo<br>4. Save changes   | Changes should be saved without errors    | ✅ Pass      |  
-| TC003            | Test export functionality           | 1. Create a composition<br>2. Export it as a MIDI file<br>3. Open the file in another app| File should open correctly without errors | ⚠️ Fail      |  
+| TC002            | Verify music play, pause tool       | 1. Navigate to player<br>2. Click play pause<br>3. Adjust Musics<br>                     | Play & Pause tools run without errors    | ✅ Pass      |  
+| TC003            | performance functionality           | 1. Navigate to the Website <br>2. Click F12 <br>3. Go to performance section <br> 4. click record and check | File should open correctly without errors | ⚠️ Fail      |  
 
 ---
 
