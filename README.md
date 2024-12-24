@@ -28,7 +28,7 @@ Manual testing for Sonic Sargam involved designing test cases, identifying bugs,
 The testing process followed a structured approach:  
 
 1. **Test Plan**:  
-   - Reviewed the application's specification, according to it made the test plan.  
+   - Reviewed the application's specification and created the test plan.  
    - Identified critical workflows and edge cases.  
 
 2. **Test Case Design**:  
@@ -50,7 +50,7 @@ The following files have been included to document the testing process:
 
 ### 1. **Test Plan**
    -  Format: .docx
-   -  Description: It contains complete test plan, how thins were going.
+   -  Description: It contains complete test plan, how things were going.
    -  Download: [1. Test Plan Document.docx](https://github.com/user-attachments/files/18215162/1.Test.Plan.Document.docx)
 
 ### 2. **Mind Map**
