@@ -119,6 +119,7 @@ The following files have been included to document the testing process:
 ## 📧 Contact
 For questions or feedback, reach out at:</br>
 Email: atulpaldelhi@gmail.com </br>
+Linkedin: https://www.linkedin.com/in/atul-pal-451b13251/</br>
 GitHub: [Atul Pal](https://github.com/palatul16)
 
 ## Web Pages
