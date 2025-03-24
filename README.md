@@ -8,6 +8,9 @@ This repository showcases the comprehensive manual testing process conducted for
 
 ---
 
+## Website
+Application Under Test : https://newsonicsargam.netlify.app/
+
 ## 📝 Project Overview  
 
 Manual testing for Sonic Sargam involved designing test cases, identifying bugs, and ensuring the seamless operation of core features. The testing covered key functionalities, user interactions, and integration points.  
